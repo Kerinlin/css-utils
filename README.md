@@ -1,2 +1,2 @@
 # css-utils
-my css utils
+My css utils for init project
